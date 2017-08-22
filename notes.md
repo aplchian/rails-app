@@ -3,3 +3,5 @@
 `bundle install`
 
 `rails server`
+
+`bundle install --without production`
